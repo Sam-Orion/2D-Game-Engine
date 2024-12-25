@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9c7504b-cc9d-47a0-8f40-74d46de1ee66" name="Changes" comment="Initial Commit">
+    <list default="true" id="d9c7504b-cc9d-47a0-8f40-74d46de1ee66" name="Changes" comment="Added Time Class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Aurora/KeyListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Aurora/KeyListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Aurora/LevelEditorScene.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Aurora/LevelEditorScene.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Aurora/Scene.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Aurora/Scene.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Aurora/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Aurora/Window.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,12 +108,57 @@
       <option name="project" value="LOCAL" />
       <updated>1735067552725</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Updated KeyListener and Window class">
+      <option name="closed" value="true" />
+      <created>1735138250325</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1735138250325</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added LevelEditorScene Class">
+      <option name="closed" value="true" />
+      <created>1735138289768</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1735138289768</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added LevelScene Class">
+      <option name="closed" value="true" />
+      <created>1735138309635</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1735138309635</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added Scene Class">
+      <option name="closed" value="true" />
+      <created>1735138323061</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1735138323061</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added Time Class">
+      <option name="closed" value="true" />
+      <created>1735138337759</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1735138337759</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Updated KeyListener and Window class" />
+    <MESSAGE value="Added LevelEditorScene Class" />
+    <MESSAGE value="Added LevelScene Class" />
+    <MESSAGE value="Added Scene Class" />
+    <MESSAGE value="Added Time Class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Time Class" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
