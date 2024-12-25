@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d9c7504b-cc9d-47a0-8f40-74d46de1ee66" name="Changes" comment="Initial Commit">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Aurora/KeyListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Aurora/KeyListener.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Aurora/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Aurora/Window.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
