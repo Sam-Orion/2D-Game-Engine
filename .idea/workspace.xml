@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9c7504b-cc9d-47a0-8f40-74d46de1ee66" name="Changes" comment="Updated workspace.xml">
+    <list default="true" id="d9c7504b-cc9d-47a0-8f40-74d46de1ee66" name="Changes" comment="Updated Aurora\Scene.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/shaders/default.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/assets/shaders/default.glsl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Aurora/LevelEditorScene.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Aurora/LevelEditorScene.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Aurora/Scene.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Aurora/Scene.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/renderer/Shader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/renderer/Shader.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,7 +182,47 @@
       <option name="project" value="LOCAL" />
       <updated>1735148623491</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Added Aurora\Camera.java">
+      <option name="closed" value="true" />
+      <created>1735550664479</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1735550664479</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Added renderer\Shader.java">
+      <option name="closed" value="true" />
+      <created>1735550701211</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1735550701211</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Updated assets\shader\default.glsl">
+      <option name="closed" value="true" />
+      <created>1735550748883</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1735550748883</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Updated Aurora\LevelEditorScene.java">
+      <option name="closed" value="true" />
+      <created>1735550791663</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1735550791663</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Updated Aurora\Scene.java">
+      <option name="closed" value="true" />
+      <created>1735550805587</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1735550805587</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -195,7 +235,12 @@
     <MESSAGE value="Update LevelEditorScene, Scene, and Window class to incorporate shaders" />
     <MESSAGE value="Added Vertex and Fragment Shaders" />
     <MESSAGE value="Updated workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated workspace.xml" />
+    <MESSAGE value="Added Aurora\Camera.java" />
+    <MESSAGE value="Added renderer\Shader.java" />
+    <MESSAGE value="Updated assets\shader\default.glsl" />
+    <MESSAGE value="Updated Aurora\LevelEditorScene.java" />
+    <MESSAGE value="Updated Aurora\Scene.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Aurora\Scene.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
